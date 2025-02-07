@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aayush Vadiya
-- 👀 I’m currently interested in Web Devlopment but for the future i like to be a data scientist
+- 👀 I’m currently a DevOps intern but for the future i like to be a data scientist
 - 🌱 I’m currently pursuing my DevOps Internship
 - 📫 You can reach my through my social links mentioned in my profile
 - ⚡ Fun fact: Earth is not flat
